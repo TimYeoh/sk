@@ -1,3 +1,4 @@
 $(function(){
-	alert('')
+	alert('');
+	alert('2');
 })
